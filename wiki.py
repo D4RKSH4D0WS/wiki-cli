@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #Author D4RK5H4D0W5
+#Rikod? boleh asal jgn apus author ya kampank
 G0 = "\033[0;32m"
 G1 = "\033[1;32m"
 C0 = "\033[0;36m"
